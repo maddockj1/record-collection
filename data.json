@@ -1,10 +1,18 @@
 [
   {
-    "id": "1766596934086",
+    "id": "1",
     "artist": "Phoenix",
     "album": "Wolfgang Amadeus Phoenix",
     "year": "2009",
     "genre": "Indie Rock",
-    "albumCover": "https://example.com/phoenix-cover.jpg"
+    "albumCover": "https://upload.wikimedia.org/wikipedia/en/9/94/Phoenix_-_Wolfgang_Amadeus_Phoenix.png"
+  },
+  {
+    "id": "2",
+    "artist":"Matt Pond PA",
+    "album":"The State of Gold",
+    "year":"2007",
+    "genre":"Indie Rock",
+    "albumCover":"https://upload.wikimedia.org/wikipedia/en/5/50/Matt_Pond_PA_-_The_State_of_Gold.png"
   }
 ]
