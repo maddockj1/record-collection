@@ -10,50 +10,10 @@
     <div class="container">
         <header>
             <h1>🎵 My Vinyl Collection</h1>
-            <p class="subtitle">Track and manage your record collection</p>
+            <p class="subtitle">Browse your record collection</p>
         </header>
 
         <div class="main-content">
-            <div class="add-record-section">
-                <h2>Add New Record</h2>
-                <form id="record-form" class="record-form">
-                    <div class="form-grid">
-                        <div class="form-group">
-                            <label for="artist">Artist</label>
-                            <input type="text" id="artist" name="artist" required>
-                        </div>
-                        <div class="form-group">
-                            <label for="album">Album</label>
-                            <input type="text" id="album" name="album" required>
-                        </div>
-                        <div class="form-group">
-                            <label for="year">Year</label>
-                            <input type="number" id="year" name="year" min="1900" max="2099">
-                        </div>
-                        <div class="form-group">
-                            <label for="genre">Genre</label>
-                            <input type="text" id="genre" name="genre" placeholder="e.g., Rock, Jazz, Electronic">
-                        </div>
-                        <div class="form-group">
-                            <label for="condition">Condition</label>
-                            <select id="condition" name="condition">
-                                <option value="Mint">Mint</option>
-                                <option value="Near Mint">Near Mint</option>
-                                <option value="Very Good">Very Good</option>
-                                <option value="Good">Good</option>
-                                <option value="Fair">Fair</option>
-                                <option value="Poor">Poor</option>
-                            </select>
-                        </div>
-                        <div class="form-group">
-                            <label for="notes">Notes</label>
-                            <textarea id="notes" name="notes" rows="3" placeholder="Any additional notes..."></textarea>
-                        </div>
-                    </div>
-                    <button type="submit" class="btn btn-primary">Add Record</button>
-                </form>
-            </div>
-
             <div class="records-section">
                 <div class="section-header">
                     <h2>My Collection</h2>
@@ -62,7 +22,6 @@
                     </div>
                     <div class="stats">
                         <span id="record-count">0 records</span>
-                        <button id="export-btn" class="btn btn-secondary" style="margin-left: 10px; padding: 8px 16px; font-size: 0.9rem;">Export JSON</button>
                     </div>
                 </div>
                 <div id="loading-state" class="loading-state">
@@ -72,61 +31,12 @@
                     <!-- Records will be dynamically inserted here -->
                 </div>
                 <div id="empty-state" class="empty-state">
-                    <p>No records yet. Add your first vinyl record above!</p>
+                    <p>No records found in collection.</p>
                 </div>
             </div>
-        </div>
-    </div>
-
-    <!-- Edit Modal -->
-    <div id="edit-modal" class="modal">
-        <div class="modal-content">
-            <span class="close">&times;</span>
-            <h2>Edit Record</h2>
-            <form id="edit-form" class="record-form">
-                <input type="hidden" id="edit-id">
-                <div class="form-grid">
-                    <div class="form-group">
-                        <label for="edit-artist">Artist</label>
-                        <input type="text" id="edit-artist" name="artist" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="edit-album">Album</label>
-                        <input type="text" id="edit-album" name="album" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="edit-year">Year</label>
-                        <input type="number" id="edit-year" name="year" min="1900" max="2099">
-                    </div>
-                    <div class="form-group">
-                        <label for="edit-genre">Genre</label>
-                        <input type="text" id="edit-genre" name="genre">
-                    </div>
-                    <div class="form-group">
-                        <label for="edit-condition">Condition</label>
-                        <select id="edit-condition" name="condition">
-                            <option value="Mint">Mint</option>
-                            <option value="Near Mint">Near Mint</option>
-                            <option value="Very Good">Very Good</option>
-                            <option value="Good">Good</option>
-                            <option value="Fair">Fair</option>
-                            <option value="Poor">Poor</option>
-                        </select>
-                    </div>
-                    <div class="form-group">
-                        <label for="edit-notes">Notes</label>
-                        <textarea id="edit-notes" name="notes" rows="3"></textarea>
-                    </div>
-                </div>
-                <div class="modal-actions">
-                    <button type="submit" class="btn btn-primary">Save Changes</button>
-                    <button type="button" class="btn btn-secondary" id="cancel-edit">Cancel</button>
-                </div>
-            </form>
         </div>
     </div>
 
     <script src="script.js"></script>
 </body>
 </html>
-

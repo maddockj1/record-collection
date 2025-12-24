@@ -50,19 +50,9 @@ header h1 {
 }
 
 .main-content {
-    display: grid;
-    grid-template-columns: 1fr 2fr;
-    gap: 30px;
     margin-bottom: 40px;
 }
 
-@media (max-width: 968px) {
-    .main-content {
-        grid-template-columns: 1fr;
-    }
-}
-
-.add-record-section,
 .records-section {
     background: var(--card-background);
     border-radius: 12px;
@@ -70,112 +60,10 @@ header h1 {
     box-shadow: var(--shadow);
 }
 
-.add-record-section h2,
 .records-section h2 {
     color: var(--primary-color);
     margin-bottom: 20px;
     font-size: 1.8rem;
-}
-
-.record-form {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-}
-
-.form-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 15px;
-}
-
-@media (max-width: 600px) {
-    .form-grid {
-        grid-template-columns: 1fr;
-    }
-}
-
-.form-group {
-    display: flex;
-    flex-direction: column;
-}
-
-.form-group label {
-    font-weight: 600;
-    margin-bottom: 8px;
-    color: var(--text-color);
-    font-size: 0.9rem;
-}
-
-.form-group input,
-.form-group select,
-.form-group textarea {
-    padding: 12px;
-    border: 2px solid var(--border-color);
-    border-radius: 8px;
-    font-size: 1rem;
-    font-family: inherit;
-    transition: border-color 0.3s;
-}
-
-.form-group input:focus,
-.form-group select:focus,
-.form-group textarea:focus {
-    outline: none;
-    border-color: var(--secondary-color);
-}
-
-.btn {
-    padding: 12px 24px;
-    border: none;
-    border-radius: 8px;
-    font-size: 1rem;
-    font-weight: 600;
-    cursor: pointer;
-    transition: all 0.3s;
-    font-family: inherit;
-}
-
-.btn-primary {
-    background: var(--secondary-color);
-    color: white;
-}
-
-.btn-primary:hover {
-    background: #2980b9;
-    transform: translateY(-2px);
-    box-shadow: var(--shadow);
-}
-
-.btn-secondary {
-    background: var(--text-light);
-    color: white;
-}
-
-.btn-secondary:hover {
-    background: #5d6d7e;
-}
-
-.btn-danger {
-    background: var(--accent-color);
-    color: white;
-    padding: 8px 16px;
-    font-size: 0.9rem;
-}
-
-.btn-danger:hover {
-    background: #c0392b;
-}
-
-.btn-edit {
-    background: var(--success-color);
-    color: white;
-    padding: 8px 16px;
-    font-size: 0.9rem;
-}
-
-.btn-edit:hover {
-    background: #229954;
 }
 
 .section-header {
@@ -221,15 +109,32 @@ header h1 {
     background: var(--card-background);
     border: 2px solid var(--border-color);
     border-radius: 12px;
-    padding: 20px;
+    overflow: hidden;
     transition: all 0.3s;
     position: relative;
+    display: flex;
+    flex-direction: column;
 }
 
 .record-card:hover {
     transform: translateY(-4px);
     box-shadow: var(--shadow-hover);
     border-color: var(--secondary-color);
+}
+
+.album-cover {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    aspect-ratio: 1;
+}
+
+.record-info {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
 }
 
 .record-card h3 {
@@ -248,7 +153,7 @@ header h1 {
     display: flex;
     flex-direction: column;
     gap: 8px;
-    margin-bottom: 15px;
+    margin-top: auto;
 }
 
 .record-detail {
@@ -262,53 +167,6 @@ header h1 {
 .record-detail strong {
     color: var(--text-light);
     min-width: 70px;
-}
-
-.condition-badge {
-    display: inline-block;
-    padding: 4px 12px;
-    border-radius: 20px;
-    font-size: 0.8rem;
-    font-weight: 600;
-    margin-top: 8px;
-}
-
-.condition-Mint {
-    background: #d4edda;
-    color: #155724;
-}
-
-.condition-Near\ Mint {
-    background: #d1ecf1;
-    color: #0c5460;
-}
-
-.condition-Very\ Good {
-    background: #fff3cd;
-    color: #856404;
-}
-
-.condition-Good {
-    background: #ffeaa7;
-    color: #6c5700;
-}
-
-.condition-Fair {
-    background: #f8d7da;
-    color: #721c24;
-}
-
-.condition-Poor {
-    background: #f5c6cb;
-    color: #721c24;
-}
-
-.card-actions {
-    display: flex;
-    gap: 10px;
-    margin-top: 15px;
-    padding-top: 15px;
-    border-top: 1px solid var(--border-color);
 }
 
 .empty-state {
@@ -335,62 +193,6 @@ header h1 {
     display: block;
 }
 
-/* Modal Styles */
-.modal {
-    display: none;
-    position: fixed;
-    z-index: 1000;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
-    backdrop-filter: blur(4px);
-}
-
-.modal.show {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.modal-content {
-    background-color: var(--card-background);
-    margin: auto;
-    padding: 30px;
-    border-radius: 12px;
-    width: 90%;
-    max-width: 600px;
-    max-height: 90vh;
-    overflow-y: auto;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
-    position: relative;
-}
-
-.close {
-    color: var(--text-light);
-    float: right;
-    font-size: 28px;
-    font-weight: bold;
-    cursor: pointer;
-    position: absolute;
-    right: 20px;
-    top: 20px;
-}
-
-.close:hover,
-.close:focus {
-    color: var(--accent-color);
-}
-
-.modal-actions {
-    display: flex;
-    gap: 10px;
-    justify-content: flex-end;
-    margin-top: 20px;
-}
-
 .hidden {
     display: none !important;
 }
-

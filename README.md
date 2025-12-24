@@ -1,17 +1,14 @@
 # My Vinyl Collection
 
-A beautiful, modern web application to track and manage your vinyl record collection. Deploy it to GitHub Pages to access your collection from anywhere!
+A beautiful, modern web application to display your vinyl record collection. Deploy it to GitHub Pages to showcase your collection!
 
 ## Features
 
-- 🎵 Add records with artist, album, year, genre, condition, and notes
+- 🎵 Display records with artist, album, year, genre, and album cover
 - 🔍 Search your collection by artist or album name
-- ✏️ Edit existing records
-- 🗑️ Delete records
 - 📄 Load data from JSON file (`data.json`)
-- 💾 Export your collection as JSON
 - 📱 Fully responsive design
-- 🎨 Modern, beautiful UI
+- 🎨 Modern, beautiful UI with album cover images
 
 ## Getting Started
 
@@ -69,36 +66,53 @@ A beautiful, modern web application to track and manage your vinyl record collec
 
 ## Usage
 
-1. **Add a Record**: Fill out the form on the left side with the record details and click "Add Record"
-2. **Search**: Use the search bar to filter records by artist or album name
-3. **Edit**: Click the "Edit" button on any record card to modify its details
-4. **Delete**: Click the "Delete" button to remove a record from your collection
-5. **Export JSON**: Click the "Export JSON" button to download your collection as a JSON file
+1. **Search**: Use the search bar to filter records by artist or album name
+2. **View Collection**: Browse your records displayed in a beautiful grid layout with album covers
 
-## Data Storage
+## Data Structure
 
-The application loads records from a `data.json` file in the repository. This means:
+The application loads records from a `data.json` file. Each record should have the following structure:
 
-- **Initial Data**: Records are loaded from `data.json` when the page loads
-- **User Changes**: When you add, edit, or delete records, changes are saved to your browser's localStorage as a cache/override
-- **Export**: Use the "Export JSON" button to download your updated collection as a JSON file
-- **Updating the Repo**: After exporting, you can commit the updated `data.json` file to your repository to persist changes across devices
+```json
+[
+  {
+    "id": "unique-id",
+    "artist": "Artist Name",
+    "album": "Album Name",
+    "year": "2020",
+    "genre": "Rock",
+    "albumCover": "https://example.com/cover.jpg"
+  }
+]
+```
 
-### To update the JSON file in your repository:
+### Fields:
 
-1. Make changes to your collection in the app
-2. Click "Export JSON" to download the updated `data.json`
-3. Replace the `data.json` file in your repository with the downloaded file
+- **id** (required): Unique identifier for the record
+- **artist** (required): Artist name
+- **album** (required): Album name
+- **year** (optional): Release year
+- **genre** (optional): Music genre
+- **albumCover** (optional): URL or path to album cover image. Can also be named `cover`. If the image fails to load, it will be hidden.
+
+## Updating Your Collection
+
+To update your collection:
+
+1. Edit the `data.json` file directly
+2. Add your records following the structure above
+3. For album covers, you can:
+   - Use URLs to images hosted online
+   - Store images in a folder (e.g., `covers/`) and reference them as `covers/album-name.jpg`
+   - Commit the images along with your JSON file
 4. Commit and push the changes to GitHub
-
-This way, your collection is version-controlled and can be shared or accessed from any device!
 
 ## Browser Support
 
 This application works in all modern browsers that support:
 
 - ES6 JavaScript
-- localStorage
+- Fetch API
 - CSS Grid and Flexbox
 
 ## License

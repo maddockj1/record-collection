@@ -1,2 +1,10 @@
-[]
-
+[
+  {
+    "id": "1766596934086",
+    "artist": "Phoenix",
+    "album": "Wolfgang Amadeus Phoenix",
+    "year": "2009",
+    "genre": "Indie Rock",
+    "albumCover": "https://example.com/phoenix-cover.jpg"
+  }
+]
