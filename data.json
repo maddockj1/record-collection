@@ -9,10 +9,762 @@
   },
   {
     "id": "2",
-    "artist":"Matt Pond PA",
-    "album":"The State of Gold",
-    "year":"2007",
-    "genre":"Indie Rock",
-    "albumCover":"https://upload.wikimedia.org/wikipedia/en/5/50/Matt_Pond_PA_-_The_State_of_Gold.png"
+    "artist": "Matt Pond PA",
+    "album": "The State of Gold",
+    "year": "2007",
+    "genre": "Indie Rock",
+    "albumCover": "https://m.media-amazon.com/images/I/81xa9mP23dL._SL1500_.jpg"
+  },
+  {
+    "id": "3",
+    "artist": "Mumford & Sons",
+    "album": "Sigh No More",
+    "year": "2009",
+    "genre": "Folk Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/dd/77/5ddd77b5-0331-5ce2-ac33-901e3aad85bd/0044003151451_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "4",
+    "artist": "Vampire Weekend",
+    "album": "Vampire Weekend",
+    "year": "2008",
+    "genre": "Indie Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/c7/94/b2c79469-1105-1a37-c092-5f889f6ed15a/634904055653.png/600x600bb.jpg"
+  },
+  {
+    "id": "5",
+    "artist": "Jose Gonzalez",
+    "album": "Vestiges & Claws",
+    "year": "2010",
+    "genre": "Folk Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/db/d0/75/dbd0759c-daa3-4f61-0a3e-9265dca4698e/724596961261.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "6",
+    "artist": "Foster the People",
+    "album": "Torches",
+    "year": "2011",
+    "genre": "Indie Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ba/07/5b/ba075b3c-f0c4-b519-59f3-7ae74d43246b/dj.lajxsvkg.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "7",
+    "artist": "The Black Keys",
+    "album": "Brothers",
+    "year": "2009",
+    "genre": "Blues Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/10/b2/d310b243-1412-0944-b80c-cced58de8fc6/075597961386.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "8",
+    "artist": "Foals",
+    "album": "Life is Yours",
+    "year": "2010",
+    "genre": "Indie Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f3/bc/df/f3bcdf5e-4a18-d699-b47e-3cfe9fb2684d/190296242441.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "9",
+    "artist": "Ben Howard",
+    "album": "Every Kingdom",
+    "year": "2011",
+    "genre": "Folk Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/87/ea/a8/87eaa882-e383-c351-984d-9c8a4daea14e/11UMGIM20073.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "10",
+    "artist": "Death Cab for Cutie",
+    "album": "Plans",
+    "year": "2005",
+    "genre": "Indie Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/03/0d/0c/030d0c02-4186-a22a-ada6-a13348069d8d/075679930491.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "11",
+    "artist": "Foster the People",
+    "album": "Supermodel",
+    "year": "2014",
+    "genre": "Indie Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/02/8e/aa/028eaa8b-13ac-00f2-cd9e-d39c850917e8/886444398169.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "12",
+    "artist": "Hugo Montenegro and His Orchestra",
+    "album": "Music from The Good, The Bad and The Ugly",
+    "year": "1968",
+    "genre": "Soundtrack",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music/7d/96/1f/mzi.fwzzpfii.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "13",
+    "artist": "Future Islands",
+    "album": "Singles",
+    "year": "2014",
+    "genre": "Indie Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/47/43/80/47438060-5bc3-6068-9117-93613414aec9/652637340259.png/600x600bb.jpg"
+  },
+  {
+    "id": "14",
+    "artist": "James Vincent McMorrow",
+    "album": "Post Tropical",
+    "year": "2013",
+    "genre": "Folk Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/bf/46/dabf46cc-a72d-eadc-bd3c-e48d973a76ef/0601091427150.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "15",
+    "artist": "Linkin Park",
+    "album": "Meteora",
+    "year": "2003",
+    "genre": "Nu Metal",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/dd/7d/72/dd7d7259-d27f-5b3e-ce64-9e304d2cb40f/dj.rxzrauer.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "16",
+    "artist": "Dirty Projectors",
+    "album": "Swing Lo Magellan",
+    "year": "2012",
+    "genre": "Indie Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d2/9c/b8/d29cb81f-a856-eb57-84ab-ad16dac0d574/DPs_SwingLoMagellanCOVER.jpeg/600x600bb.jpg"
+  },
+  {
+    "id": "17",
+    "artist": "Rogers and Hammerstein",
+    "album": "Sound of Music",
+    "year": "1959",
+    "genre": "Soundtrack",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ed/76/c1/ed76c1d9-a7b1-03e9-2b2e-a430adf3e906/19CRGIM17024.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "18",
+    "artist": "Alabama Shakes",
+    "album": "Sound & Color",
+    "year": "2015",
+    "genre": "Southern Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/6c/30/aa/6c30aa11-b842-105c-da48-d569c45604fc/mzm.rrxxfbbw.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "19",
+    "artist": "Allman Brothers Band",
+    "album": "Eat a Peach",
+    "year": "1972",
+    "genre": "Southern Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9c/b5/33/9cb53320-8975-23a9-5045-28c412a5814a/16UMGIM14647.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "20",
+    "artist": "Billy Joel",
+    "album": "Turnstiles",
+    "year": "1976",
+    "genre": "Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/20/9c/8f/209c8fd8-6cdd-6567-74e2-3e62b2803713/888880156822.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "21",
+    "artist": "Bruce Springsteen",
+    "album": "Greetings from Asbury Park, N.J.",
+    "year": "1973",
+    "genre": "Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d0/4a/a2/d04aa204-3210-0ef9-6bac-cbb0905fc467/074643190329.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "22",
+    "artist": "Carly Simon",
+    "album": "The Best of Carly Simon",
+    "year": "1975",
+    "genre": "Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c4/2e/4e/c42e4e98-0316-1e17-0ca3-b2acd11e5738/mzi.dnscdjwg.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "23",
+    "artist": "Carole King",
+    "album": "Tapestry",
+    "year": "1971",
+    "genre": "Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/68/b6/0e/68b60e89-9d41-e8a1-bba2-05c750f0832b/dj.hwpyamqm.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "24",
+    "artist": "Cataldo",
+    "album": "Literally Main Street",
+    "year": "2014",
+    "genre": "Indie Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/83/46/87/8346872e-038a-7768-db30-bccce87834e6/5054526292581_1.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "25",
+    "artist": "Courtney Barnett",
+    "album": "The Double EP: A Sea of Split Peas",
+    "year": "2013",
+    "genre": "Indie Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7c/4c/2a/7c4c2a76-43b6-fede-7884-4c2bde7a9e5f/3495.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "26",
+    "artist": "David Byrne and St. Vincent",
+    "album": "Love This Giant",
+    "year": "2012",
+    "genre": "Indie Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ec/bf/c6/ecbfc6ee-1c0c-7a6f-bc00-36e8f5a2b745/652637323153.png/600x600bb.jpg"
+  },
+  {
+    "id": "27",
+    "artist": "Death Cab for Cutie",
+    "album": "Transatlanticism",
+    "year": "2003",
+    "genre": "Indie Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/94/56/15/94561549-e863-502d-db56-8c15c871f0f8/655173103227.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "28",
+    "artist": "Go Go Penguin",
+    "album": "Man Made Object",
+    "year": "2013",
+    "genre": "Jazz",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/f2/e4/52/f2e452e9-06b9-dda4-2fcf-fe4bb4057d16/00602547683793.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "29",
+    "artist": "Green Day",
+    "album": "American Idiot 20th Anniversary Edition",
+    "year": "2024",
+    "genre": "Punk Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/dc/f7/90/dcf790c3-7c63-f7b3-e57b-5a8747a8ebbe/14UMGIM11148.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "30",
+    "artist": "Green Day",
+    "album": "Dookie",
+    "year": "1994",
+    "genre": "Punk Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/8f/41/d4/8f41d4b2-ed5f-4450-5d45-e31ca7df9168/054391955661.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "31",
+    "artist": "Grateful Dead",
+    "album": "American Beauty",
+    "year": "1970",
+    "genre": "Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f5/27/20/f5272061-2466-6375-c2d1-f20d14be569f/603497920952.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "32",
+    "artist": "Hall and Oates",
+    "album": "Voices",
+    "year": "1981",
+    "genre": "Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e0/96/ad/e096ad2e-7ec8-480e-8ddf-d9aa469d4610/828765861427.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "33",
+    "artist": "James Blake",
+    "album": "Overgrown",
+    "year": "2013",
+    "genre": "Indie Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2a/d7/d8/2ad7d8cd-2ab6-d08c-5490-2704c10ca2bc/00602537351374.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "34",
+    "artist": "Jenny Lewis",
+    "album": "The Voyager",
+    "year": "2014",
+    "genre": "Indie Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/73/4b/38/734b380c-eeb0-68f8-662d-8dd2baed70a8/dj.yavqkbgv.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "35",
+    "artist": "John Denver",
+    "album": "Poems, Prayers and Promises",
+    "year": "1971",
+    "genre": "Country",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/52/ed/f3/52edf3b6-5b73-c52d-e3f6-4473412eec7c/886443406193.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "36",
+    "artist": "Jon Benjamin Jazz Daredevil",
+    "album": "well i should have learned to play the piano",
+    "year": "2015",
+    "genre": "Jazz",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/a2/19/af/a219afdc-38c7-848a-6c2c-a62014946c25/JonBenjamin_WellIShouldHave_cover_2400x2400_72.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "37",
+    "artist": "Joni Mitchell",
+    "album": "Mingus",
+    "year": "1979",
+    "genre": "Jazz",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/18/7b/d1/187bd1e4-9714-b116-3200-48f74ff1a5fa/075597947236.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "38",
+    "artist": "Death Cab for Cutie",
+    "album": "Narrow Stairs",
+    "year": "2008",
+    "genre": "Indie Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music/c6/e7/17/mzi.cjutfwkz.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "39",
+    "artist": "Death Cab for Cutie",
+    "album": "Kintsugi",
+    "year": "2015",
+    "genre": "Indie Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/90/55/f3/9055f30d-8f00-091b-2a61-bc3a4b56b613/075679930682.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "40",
+    "artist": "Emmylou Harris",
+    "album": "Luxury Liners",
+    "year": "1975",
+    "genre": "Country",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/31/04/14/31041473-e3da-cdb1-61ac-bf1e29e75eff/s02.sqbzacvc.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "41",
+    "artist": "Fleetwood Mac",
+    "album": "Tusk",
+    "year": "1979",
+    "genre": "Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0c/80/b2/0c80b2a3-9409-d7ea-9044-c0c0c6eb00e3/mzm.ezalkqov.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "42",
+    "artist": "Flock of Dimes",
+    "album": "Head of Roses",
+    "year": "2018",
+    "genre": "Indie Rock",
+    "albumCover": ""
+  },
+  {
+    "id": "43",
+    "artist": "Foo Fighters",
+    "album": "The Essential Foo Fighters",
+    "year": "2005",
+    "genre": "Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7f/24/7b/7f247b75-f305-e219-51fc-719845d65344/196589502315.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "44",
+    "artist": "Gregory Alan Isakov",
+    "album": "Evening Machines",
+    "year": "2018",
+    "genre": "Folk Rock",
+    "albumCover": ""
+  },
+  {
+    "id": "45",
+    "artist": "Gary Clark Jr.",
+    "album": "This Land",
+    "year": "2016",
+    "genre": "Blues Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/c5/dc/50/c5dc5003-ae4e-4721-15f0-94bba0c50b68/093624934288.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "46",
+    "artist": "Coldplay",
+    "album": "A Rush of Blood to the Head",
+    "year": "2002",
+    "genre": "Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b9/b4/2a/b9b42ad1-1e25-5096-da43-497a247e69a3/190295978051.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "47",
+    "artist": "Flock of Dimes",
+    "album": "If you see me, say yes",
+    "year": "2016",
+    "genre": "Indie Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/af/88/82af884a-54ac-fc4b-b42c-18e681a37e19/720841213192_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "48",
+    "artist": "Matt & Kim",
+    "album": "Grand",
+    "year": "2008",
+    "genre": "Indie Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/d6/17/94d617ca-289a-a982-8f73-c5fd462212ce/00829299090833_Cover.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "49",
+    "artist": "Sylvan Esso",
+    "album": "What Now",
+    "year": "2014",
+    "genre": "Indie Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bc/a2/f6/bca2f662-9156-3e89-85b9-383ea57da033/20CRGIM23295.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "50",
+    "artist": "The Killers",
+    "album": "Hot Fuss",
+    "year": "2004",
+    "genre": "Rock",
+    "albumCover": ""
+  },
+  {
+    "id": "51",
+    "artist": "The National",
+    "album": "Trouble Will Find Me",
+    "year": "2013",
+    "genre": "Rock",
+    "albumCover": ""
+  },
+  {
+    "id": "52",
+    "artist": "Bon Iver",
+    "album": "Bon Iver",
+    "year": "2008",
+    "genre": "Indie Rock",
+    "albumCover": ""
+  },
+  {
+    "id": "53",
+    "artist": "Volcano Choir",
+    "album": "Repave",
+    "year": "2013",
+    "genre": "Indie Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8e/e2/84/8ee284e6-1614-731a-76b9-23a70e6b51c1/jag238full.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "54",
+    "artist": "S. Carey",
+    "album": "Supermoon",
+    "year": "2011",
+    "genre": "Folk Rock",
+    "albumCover": ""
+  },
+  {
+    "id": "55",
+    "artist": "Princeton",
+    "album": "Remembrance of Things to Come",
+    "year": "2013",
+    "genre": "Indie Rock",
+    "albumCover": ""
+  },
+  {
+    "id": "56",
+    "artist": "Square Peg Round Hole",
+    "album": "Juniper",
+    "year": "2014",
+    "genre": "Indie Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/27/57/f0/2757f036-875c-fdc8-6a50-02c951ebbc06/859746936407_cover.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "57",
+    "artist": "Square Peg Round Hole",
+    "album": "Branches",
+    "year": "2019",
+    "genre": "Indie Rock",
+    "albumCover": ""
+  },
+  {
+    "id": "58",
+    "artist": "Snail Mail",
+    "album": "Lush",
+    "year": "2018",
+    "genre": "Indie Rock",
+    "albumCover": ""
+  },
+  {
+    "id": "59",
+    "artist": "Stevie Wonder",
+    "album": "Innervisions",
+    "year": "1973",
+    "genre": "Rock",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ff/c2/5f/ffc25f04-cb3b-b56e-dd28-8b77ae63e613/00602537070824.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "60",
+    "artist": "Shakey Graves",
+    "album": "And the War Came",
+    "year": "2014",
+    "genre": "Folk Rock",
+    "albumCover": ""
+  },
+  {
+    "id": "61",
+    "artist": "System of a Down",
+    "album": "Toxicity",
+    "year": "2001",
+    "genre": "Metal",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/83/68/f1/8368f10d-70d0-a968-69c2-0835dddf76d2/886448869788.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "62",
+    "artist": "This is the Kit",
+    "album": "Off Off On",
+    "year": "2020",
+    "genre": "Folk",
+    "albumCover": ""
+  },
+  {
+    "id": "63",
+    "artist": "Vince Guaraldi Trio",
+    "album": "Jazz Impression of Charlie Brown",
+    "year": "",
+    "genre": "Jazz",
+    "albumCover": ""
+  },
+  {
+    "id": "64",
+    "artist": "Wye Oak",
+    "album": "Civilian",
+    "year": "2011",
+    "genre": "Indie Rock",
+    "albumCover": ""
+  },
+  {
+    "id": "65",
+    "artist": "Weather Report",
+    "album": "Heavy Weather",
+    "year": "1977",
+    "genre": "",
+    "albumCover": ""
+  },
+  {
+    "id": "66",
+    "artist": "WXPN",
+    "album": "Live at World Cafe Volume 38",
+    "year": "2014",
+    "genre": "Compilation",
+    "albumCover": ""
+  },
+  {
+    "id": "67",
+    "artist": "Eurythmics",
+    "album": "Be Yourself Tonight",
+    "year": "1985",
+    "genre": "Pop",
+    "albumCover": ""
+  },
+  {
+    "id": "68",
+    "artist": "Eurythmics",
+    "album": "Touch",
+    "year": "1983",
+    "genre": "Pop",
+    "albumCover": ""
+  },
+  {
+    "id": "69",
+    "artist": "Lake Street Dive",
+    "album": "Free Yourself Up",
+    "year": "2018",
+    "genre": "Pop",
+    "albumCover": ""
+  },
+  {
+    "id": "70",
+    "artist": "Laura Marling",
+    "album": "I Speak Because I Can",
+    "year": "2010",
+    "genre": "Folk",
+    "albumCover": ""
+  },
+  {
+    "id": "71",
+    "artist": "Laura Veirs",
+    "album": "The Lookout",
+    "year": "2018",
+    "genre": "Folk",
+    "albumCover": ""
+  },
+  {
+    "id": "72",
+    "artist": "Linda Ronstatt",
+    "album": "Don't Cry Now",
+    "year": "",
+    "genre": "",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b1/fc/90/b1fc90fd-c39e-8b02-b0ea-654b6f7b6661/081227981976.jpg/600x600bb.jpg"
+  },
+  {
+    "id": "73",
+    "artist": "Matt Pond PA",
+    "album": "Last Light",
+    "year": "2007",
+    "genre": "Indie Rock",
+    "albumCover": ""
+  },
+  {
+    "id": "74",
+    "artist": "Mean Lady",
+    "album": "Love Now",
+    "year": "2013",
+    "genre": "",
+    "albumCover": ""
+  },
+  {
+    "id": "75",
+    "artist": "Muppets",
+    "album": "A Muppet Christmas Carol",
+    "year": "1992",
+    "genre": "Christmas",
+    "albumCover": ""
+  },
+  {
+    "id": "76",
+    "artist": "Neil Diamond",
+    "album": "Stones",
+    "year": "1971",
+    "genre": "",
+    "albumCover": ""
+  },
+  {
+    "id": "77",
+    "artist": "Paul Simon",
+    "album": "One-Trick Pony",
+    "year": "1980",
+    "genre": "Soundtrack",
+    "albumCover": ""
+  },
+  {
+    "id": "78",
+    "artist": "Pretenders",
+    "album": "Pretenders",
+    "year": "1980",
+    "genre": "Pop Rock",
+    "albumCover": ""
+  },
+  {
+    "id": "79",
+    "artist": "Sturtz",
+    "album": "Hyacinth",
+    "year": "2024",
+    "genre": "Folk",
+    "albumCover": ""
+  },
+  {
+    "id": "80",
+    "artist": "Tron Legacy",
+    "album": "Daft Punk",
+    "year": "2011",
+    "genre": "Soundtrack",
+    "albumCover": ""
+  },
+  {
+    "id": "81",
+    "artist": "Nirvana",
+    "album": "Nevermind",
+    "year": "1991",
+    "genre": "Grunge",
+    "albumCover": ""
+  },
+  {
+    "id": "82",
+    "artist": "Tune-yards",
+    "album": "Nikki Nack",
+    "year": "2014",
+    "genre": "Indie Art",
+    "albumCover": ""
+  },
+  {
+    "id": "83",
+    "artist": "Johnny Maddox",
+    "album": "Crazy Otto Piano",
+    "year": "",
+    "genre": "Old Timey Piano Music",
+    "albumCover": ""
+  },
+  {
+    "id": "84",
+    "artist": "Stevie Wonder",
+    "album": "Talking Book",
+    "year": "1972",
+    "genre": "Pop",
+    "albumCover": ""
+  },
+  {
+    "id": "85",
+    "artist": "Local Natives",
+    "album": "Gorilla Manor",
+    "year": "2010",
+    "genre": "Indie Rock",
+    "albumCover": ""
+  },
+  {
+    "id": "86",
+    "artist": "Kurt Vile",
+    "album": "Walking on a Pretty Days",
+    "year": "2013",
+    "genre": "Rock",
+    "albumCover": ""
+  },
+  {
+    "id": "87",
+    "artist": "Talking Heads",
+    "album": "Speaking in Tongues",
+    "year": "1983",
+    "genre": "Pop",
+    "albumCover": ""
+  },
+  {
+    "id": "88",
+    "artist": "Lord Huron",
+    "album": "Lonesome Dreams",
+    "year": "2012",
+    "genre": "Folk Rock",
+    "albumCover": ""
+  },
+  {
+    "id": "89",
+    "artist": "Sufjan Stevens",
+    "album": "Illinoise",
+    "year": "2005",
+    "genre": "Folk",
+    "albumCover": ""
+  },
+  {
+    "id": "90",
+    "artist": "George Lucas || John Williams",
+    "album": "The Story Of Star Wars",
+    "year": "1977",
+    "genre": "Soundtrack",
+    "albumCover": ""
+  },
+  {
+    "id": "91",
+    "artist": "Kenny Rogers",
+    "album": " The Gambler",
+    "year": "1978",
+    "genre": "Country",
+    "albumCover": ""
+  },
+  {
+    "id": "92",
+    "artist": "Kurt Vile",
+    "album": "B'Liveve Im Going Down...",
+    "year": "2015",
+    "genre": "Rock",
+    "albumCover": ""
+  },
+  {
+    "id": "93",
+    "artist": "Wet Leg",
+    "album": "Wet Leg",
+    "year": "2022",
+    "genre": "Pop",
+    "albumCover": ""
+  },
+  {
+    "id": "94",
+    "artist": "John Mayer Trio",
+    "album": "Try!",
+    "year": "2005",
+    "genre": "Rock",
+    "albumCover": ""
+  },
+  {
+    "id": "95",
+    "artist": "Real Estate",
+    "album": "Atlas",
+    "year": "2014",
+    "genre": "Soft Rock",
+    "albumCover": ""
+  },
+  {
+    "id": "96",
+    "artist": "Gorillaz",
+    "album": "Demon Days",
+    "year": "2005",
+    "genre": "Rock",
+    "albumCover": ""
   }
 ]
