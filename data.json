@@ -333,7 +333,7 @@
     "album": "Head of Roses",
     "year": "2018",
     "genre": "Indie Rock",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/34/33/e0/3433e039-a8c5-183f-6f2d-c72ea82b4c94/098787140569.png/600x600bb.jpg"
   },
   {
     "id": "43",
@@ -349,7 +349,7 @@
     "album": "Evening Machines",
     "year": "2018",
     "genre": "Folk Rock",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/ed/83/15ed83dc-8e46-09b2-fb12-764a65a281a3/18573.jpg/600x600bb.jpg"
   },
   {
     "id": "45",
@@ -397,7 +397,7 @@
     "album": "Hot Fuss",
     "year": "2004",
     "genre": "Rock",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/1a/5a/071a5aee-6e42-060c-35b9-6a6e45b9ea59/06UMGIM10441.rgb.jpg/600x600bb.jpg"
   },
   {
     "id": "51",
@@ -405,7 +405,7 @@
     "album": "Trouble Will Find Me",
     "year": "2013",
     "genre": "Rock",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/3a/a3/21/3aa3215d-10f4-e2ac-04eb-4ff407da1f0a/5054526343139_1.jpg/600x600bb.jpg"
   },
   {
     "id": "52",
@@ -413,7 +413,7 @@
     "album": "Bon Iver",
     "year": "2008",
     "genre": "Indie Rock",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/de/f0/bf/def0bfe3-6b57-34fa-3a40-bb67aa6284b2/656605235066.jpg/600x600bb.jpg"
   },
   {
     "id": "53",
@@ -429,7 +429,7 @@
     "album": "Supermoon",
     "year": "2011",
     "genre": "Folk Rock",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/b7/31/a7/b731a7f1-b7ad-8667-0a49-21ba657b32cf/656605226460.jpg/600x600bb.jpg"
   },
   {
     "id": "55",
@@ -437,7 +437,7 @@
     "album": "Remembrance of Things to Come",
     "year": "2013",
     "genre": "Indie Rock",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7b/bb/8b/7bbb8b7e-31df-e92b-72fe-7d02af2ce44f/artwork.jpg/600x600bb.jpg"
   },
   {
     "id": "56",
@@ -453,7 +453,7 @@
     "album": "Branches",
     "year": "2019",
     "genre": "Indie Rock",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/5a/32/7a5a3208-655c-af69-d9cc-7dfcf72ae52c/859770552284_TdxUhED.jpg/600x600bb.jpg"
   },
   {
     "id": "58",
@@ -461,7 +461,7 @@
     "album": "Lush",
     "year": "2018",
     "genre": "Indie Rock",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e3/f0/b8/e3f0b8b0-88c4-58df-a148-d4714d4fe7dc/744861117957.png/600x600bb.jpg"
   },
   {
     "id": "59",
@@ -477,7 +477,7 @@
     "album": "And the War Came",
     "year": "2014",
     "genre": "Folk Rock",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/a7/f2/74a7f2bc-e577-15f7-95d6-41cc5185cc4d/25214.jpg/600x600bb.jpg"
   },
   {
     "id": "61",
@@ -493,7 +493,7 @@
     "album": "Off Off On",
     "year": "2020",
     "genre": "Folk",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/34/55/5c/34555c7c-f106-301f-7e2d-dc3c4c038b97/191402014853.png/600x600bb.jpg"
   },
   {
     "id": "63",
@@ -501,7 +501,7 @@
     "album": "Jazz Impression of Charlie Brown",
     "year": "",
     "genre": "Jazz",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/0c/33/1c0c3344-3f0a-558d-4639-7be54e9d674c/24CRGIM46451.rgb.jpg/600x600bb.jpg"
   },
   {
     "id": "64",
@@ -509,7 +509,7 @@
     "album": "Civilian",
     "year": "2011",
     "genre": "Indie Rock",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/d2/3e/e3d23e10-e067-4d58-d853-0800b0c67fb8/57097.jpg/600x600bb.jpg"
   },
   {
     "id": "65",
@@ -517,7 +517,7 @@
     "album": "Heavy Weather",
     "year": "1977",
     "genre": "",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/6e/c2/936ec2d4-1cc1-f60a-ff6c-4ba6f9ffcdb5/074646510827.jpg/600x600bb.jpg"
   },
   {
     "id": "66",
@@ -533,7 +533,7 @@
     "album": "Be Yourself Tonight",
     "year": "1985",
     "genre": "Pop",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/64/2b/49/642b49d4-b46c-4098-a4ec-0fd19251eea5/886447030196.jpg/600x600bb.jpg"
   },
   {
     "id": "68",
@@ -541,7 +541,7 @@
     "album": "Touch",
     "year": "1983",
     "genre": "Pop",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/95/aa/9c95aa7f-4d60-7572-b49c-aa42e4bbe095/24UM1IM04066.rgb.jpg/600x600bb.jpg"
   },
   {
     "id": "69",
@@ -549,7 +549,7 @@
     "album": "Free Yourself Up",
     "year": "2018",
     "genre": "Pop",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/21/a0/7c/21a07c8d-5d03-0e97-e355-acce695fc820/075597930399.jpg/600x600bb.jpg"
   },
   {
     "id": "70",
@@ -557,7 +557,7 @@
     "album": "I Speak Because I Can",
     "year": "2010",
     "genre": "Folk",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ad/62/64/ad626439-a4b4-4e9e-1621-5cd083d38ebe/05099963176254.jpg/600x600bb.jpg"
   },
   {
     "id": "71",
@@ -565,7 +565,7 @@
     "album": "The Lookout",
     "year": "2018",
     "genre": "Folk",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/3e/28/55/3e2855d3-9f0e-d80a-1dee-80fe5c30b4be/00050087104320.rgb.jpg/600x600bb.jpg"
   },
   {
     "id": "72",
@@ -581,7 +581,7 @@
     "album": "Last Light",
     "year": "2007",
     "genre": "Indie Rock",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/81/6e/34816e8b-7adb-d7ae-d9ae-4307e58ac98e/196835426679_cover.jpg/600x600bb.jpg"
   },
   {
     "id": "74",
@@ -589,7 +589,7 @@
     "album": "Love Now",
     "year": "2013",
     "genre": "",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fe/af/f2/feaff2a3-a104-ba82-0453-ffcd58472b1e/886446282527.jpg/600x600bb.jpg"
   },
   {
     "id": "75",
@@ -597,7 +597,7 @@
     "album": "A Muppet Christmas Carol",
     "year": "1992",
     "genre": "Christmas",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/80/6b/3b/806b3bda-699e-8c77-9691-89a30b962ce2/00050086141470.rgb.jpg/600x600bb.jpg"
   },
   {
     "id": "76",
@@ -605,7 +605,7 @@
     "album": "Stones",
     "year": "1971",
     "genre": "",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/af/42/1e/af421e70-8688-7d46-2071-180dcd2c2421/06UMGIM03153.rgb.jpg/600x600bb.jpg"
   },
   {
     "id": "77",
@@ -613,7 +613,7 @@
     "album": "One-Trick Pony",
     "year": "1980",
     "genre": "Soundtrack",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c9/0f/07/c90f0706-6fae-c886-7354-40fbb3171aac/dj.ccouxvni.jpg/600x600bb.jpg"
   },
   {
     "id": "78",
@@ -621,7 +621,7 @@
     "album": "Pretenders",
     "year": "1980",
     "genre": "Pop Rock",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music/c6/05/f6/mzi.soguthne.jpg/600x600bb.jpg"
   },
   {
     "id": "79",
@@ -629,7 +629,7 @@
     "album": "Hyacinth",
     "year": "2024",
     "genre": "Folk",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/d4/61/27d4614c-5f84-f23a-3135-091b0c1be627/artwork.jpg/600x600bb.jpg"
   },
   {
     "id": "80",
@@ -637,7 +637,7 @@
     "album": "Daft Punk",
     "year": "2011",
     "genre": "Soundtrack",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/80/e8/0e/80e80e59-0164-5e97-d242-35fc555c4764/artwork.jpg/600x600bb.jpg"
   },
   {
     "id": "81",
@@ -645,7 +645,7 @@
     "album": "Nevermind",
     "year": "1991",
     "genre": "Grunge",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/75/fa/07/75fa07d2-cc4e-d6f6-535e-c870e2cd73b5/20UM1IM03178.rgb.jpg/600x600bb.jpg"
   },
   {
     "id": "82",
@@ -661,7 +661,7 @@
     "album": "Crazy Otto Piano",
     "year": "",
     "genre": "Old Timey Piano Music",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music/d5/10/fe/mzi.fqrmonzw.tif/600x600bb.jpg"
   },
   {
     "id": "84",
@@ -669,7 +669,7 @@
     "album": "Talking Book",
     "year": "1972",
     "genre": "Pop",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/62/61/61/626161c0-f4d7-e6ff-8586-768340ef278f/00602537002382.rgb.jpg/600x600bb.jpg"
   },
   {
     "id": "85",
@@ -677,7 +677,7 @@
     "album": "Gorilla Manor",
     "year": "2010",
     "genre": "Indie Rock",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/82/ae/6082ae53-5a3c-7b20-07bd-d6312e5e6aa8/mzi.geodscxv.tif/600x600bb.jpg"
   },
   {
     "id": "86",
@@ -693,7 +693,7 @@
     "album": "Speaking in Tongues",
     "year": "1983",
     "genre": "Pop",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/23/8a/83/238a8346-7a18-a507-ccb7-a86cbaee9d7c/mzi.orgozngz.jpg/600x600bb.jpg"
   },
   {
     "id": "88",
@@ -701,7 +701,7 @@
     "album": "Lonesome Dreams",
     "year": "2012",
     "genre": "Folk Rock",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/b6/00/f3b600c3-e128-6fe6-8f0a-162145c2d4be/886443581227_Cover.jpg/600x600bb.jpg"
   },
   {
     "id": "89",
@@ -709,7 +709,7 @@
     "album": "Illinoise",
     "year": "2005",
     "genre": "Folk",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/47/9e/a3/479ea382-2686-3ea9-3def-d67d81fb2ee3/mzi.lhtprasx.jpg/600x600bb.jpg"
   },
   {
     "id": "90",
@@ -717,7 +717,7 @@
     "album": "The Story Of Star Wars",
     "year": "1977",
     "genre": "Soundtrack",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3e/93/59/3e9359d0-d598-cc28-a19b-b634befb782f/196871169462.jpg/600x600bb.jpg"
   },
   {
     "id": "91",
@@ -725,7 +725,7 @@
     "album": " The Gambler",
     "year": "1978",
     "genre": "Country",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b9/88/8d/b9888d62-f385-8e20-9dd2-5dc602fdbb3c/193436229654_01_img001.jpg/600x600bb.jpg"
   },
   {
     "id": "92",
@@ -741,7 +741,7 @@
     "album": "Wet Leg",
     "year": "2022",
     "genre": "Pop",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/43/9b/9c439b3e-4251-702e-ac7c-85ccabf759c2/5400863148331_cover.jpg/600x600bb.jpg"
   },
   {
     "id": "94",
@@ -749,7 +749,7 @@
     "album": "Try!",
     "year": "2005",
     "genre": "Rock",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/71/ce/f3/71cef33d-a5e5-0ce8-2ede-89c026f63e5f/dj.xgnbnyel.jpg/600x600bb.jpg"
   },
   {
     "id": "95",
@@ -757,7 +757,7 @@
     "album": "Atlas",
     "year": "2014",
     "genre": "Soft Rock",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0e/4a/9d/0e4a9db7-ef12-7c27-d9e8-743807a814d3/Real_Estate_-_Atlas.jpg/600x600bb.jpg"
   },
   {
     "id": "96",
@@ -765,6 +765,6 @@
     "album": "Demon Days",
     "year": "2005",
     "genre": "Rock",
-    "albumCover": ""
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/600x600bb.jpg"
   }
 ]

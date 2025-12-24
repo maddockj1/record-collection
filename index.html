@@ -24,6 +24,43 @@
                         <span id="record-count">0 records</span>
                     </div>
                 </div>
+                <div class="controls-bar">
+                    <div class="sort-controls">
+                        <label for="sort-select">Sort by:</label>
+                        <select id="sort-select" class="control-select">
+                            <option value="artist">Artist (A-Z)</option>
+                            <option value="artist-desc">Artist (Z-A)</option>
+                            <option value="album">Album (A-Z)</option>
+                            <option value="album-desc">Album (Z-A)</option>
+                            <option value="year">Year (Oldest)</option>
+                            <option value="year-desc">Year (Newest)</option>
+                            <option value="genre">Genre</option>
+                        </select>
+                    </div>
+                    <div class="genre-filter">
+                        <button class="genre-btn active" data-genre="all">All</button>
+                        <div id="genre-buttons" class="genre-buttons">
+                            <!-- Genre buttons will be dynamically inserted here -->
+                        </div>
+                    </div>
+                    <div class="view-toggle">
+                        <button id="grid-view-btn" class="view-btn active" aria-label="Grid view">
+                            <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+                                <rect x="2" y="2" width="7" height="7" rx="1"/>
+                                <rect x="11" y="2" width="7" height="7" rx="1"/>
+                                <rect x="2" y="11" width="7" height="7" rx="1"/>
+                                <rect x="11" y="11" width="7" height="7" rx="1"/>
+                            </svg>
+                        </button>
+                        <button id="list-view-btn" class="view-btn" aria-label="List view">
+                            <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+                                <rect x="2" y="3" width="16" height="2" rx="1"/>
+                                <rect x="2" y="9" width="16" height="2" rx="1"/>
+                                <rect x="2" y="15" width="16" height="2" rx="1"/>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
                 <div id="loading-state" class="loading-state">
                     <p>Loading records...</p>
                 </div>
@@ -31,7 +68,9 @@
                     <!-- Records will be dynamically inserted here -->
                 </div>
                 <div id="empty-state" class="empty-state">
-                    <p>No records found in collection.</p>
+                    <div class="empty-state-content" id="empty-state-content">
+                        <p>No records found in collection.</p>
+                    </div>
                 </div>
             </div>
         </div>
