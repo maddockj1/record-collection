@@ -152,6 +152,23 @@ header h1 {
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+    scrollbar-color: var(--border-color) transparent;
+}
+
+.genre-buttons::-webkit-scrollbar {
+    height: 4px;
+}
+
+.genre-buttons::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.genre-buttons::-webkit-scrollbar-thumb {
+    background: var(--border-color);
+    border-radius: 2px;
 }
 
 .genre-btn {
@@ -452,17 +469,42 @@ header h1 {
 
     .genre-filter {
         width: 100%;
-        flex-direction: column;
-        align-items: stretch;
+        flex-direction: row;
+        align-items: center;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        padding-bottom: 8px;
+        margin-bottom: -8px;
+        scrollbar-width: thin;
+        scrollbar-color: var(--border-color) transparent;
+    }
+
+    .genre-filter::-webkit-scrollbar {
+        height: 4px;
+    }
+
+    .genre-filter::-webkit-scrollbar-track {
+        background: transparent;
+    }
+
+    .genre-filter::-webkit-scrollbar-thumb {
+        background: var(--border-color);
+        border-radius: 2px;
     }
 
     .genre-buttons {
-        width: 100%;
+        width: auto;
+        flex-wrap: nowrap;
+        min-width: max-content;
+        gap: 6px;
     }
 
     .genre-btn {
-        flex: 1;
-        min-width: 0;
+        flex: 0 0 auto;
+        min-width: auto;
+        white-space: nowrap;
+        padding: 8px 14px;
+        font-size: 0.8rem;
     }
 
     .view-toggle {

@@ -389,8 +389,7 @@
     "album": "What Now",
     "year": "2014",
     "genre": "Indie Rock",
-    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bc/a2/f6/bca2f662-9156-3e89-85b9-383ea57da033/20CRGIM23295.rgb.jpg/600x600bb.jpg"
-  },
+    "albumCover": "https://upload.wikimedia.org/wikipedia/en/c/ce/Sylvanessowhatnow.jpg",
   {
     "id": "50",
     "artist": "The Killers",
@@ -413,7 +412,7 @@
     "album": "Bon Iver",
     "year": "2008",
     "genre": "Indie Rock",
-    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/de/f0/bf/def0bfe3-6b57-34fa-3a40-bb67aa6284b2/656605235066.jpg/600x600bb.jpg"
+    "albumCover": "https://upload.wikimedia.org/wikipedia/en/5/5f/Bon_iver.jpg"
   },
   {
     "id": "53",
@@ -453,7 +452,7 @@
     "album": "Branches",
     "year": "2019",
     "genre": "Indie Rock",
-    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/5a/32/7a5a3208-655c-af69-d9cc-7dfcf72ae52c/859770552284_TdxUhED.jpg/600x600bb.jpg"
+    "albumCover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS24UrCyG3q3ruTfjEPDvf-bmxakRt9ZIf2Rg&s"
   },
   {
     "id": "58",
